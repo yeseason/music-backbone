@@ -1,0 +1,16 @@
+li{
+position: relative;
+font-size: 24px;
+line-height: 1.1em;
+border-bottom: 1px solid #CCC;
+}
+.music{
+padding: 12px 20px 11px 0;
+}
+.long{
+background:gray;
+z-index: -1;
+height: 100%;
+top: 0;
+position: absolute;
+}
